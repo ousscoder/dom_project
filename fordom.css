@@ -1,0 +1,37 @@
+.items {
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px blue;
+}
+
+.phone {
+    width: 33%;
+}
+
+.total {
+
+    display: flex;
+    text-align: center;
+}
+
+header{
+
+    display: flex;
+    background-color: aliceblue;
+    border: black solid 1px;
+    padding-left: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
